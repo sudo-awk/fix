@@ -12,7 +12,7 @@ You can run the script to install them in pipx environment, just download the `.
 
 ```
 chmod +x fix.sh 
-../fix.sh
+./fix.sh
 ```
 
 Special thanks to six2dez for making this awesome tool.
