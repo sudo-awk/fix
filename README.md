@@ -19,7 +19,7 @@ After running the ./install script in reconftw I got multiple apps not installed
  [*] porch-pirate                       [NO]
 
 ```
-You can run the script to install them in pipx environment, just download the `.sh` file and make them excuteable
+You can run the script to install them in pipx environment, just download the `.sh` file and make them executeable
 
 ```
 chmod +x fix.sh | bash
