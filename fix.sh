@@ -1,9 +1,5 @@
 #!/usr/bin/bash
 
-## Update and Upgrade kali
-sudo apt update
-sudo apt upgrade -y
-
 
 # Instal trufflehog via apt
 
