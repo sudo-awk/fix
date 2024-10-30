@@ -1,8 +1,9 @@
 #!/usr/bin/bash
 
+# Change to reconftw folder
+cd ~/opt/reconftw
 
 # Instal trufflehog via apt
-
 sudo apt install trufflehog -y
  
 ## Install pipx 
